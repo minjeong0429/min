@@ -81,7 +81,7 @@ $ git stash apply --index stash@{n}
 </pre>
 ------------------------------------------
 
-# 다양한 브랜치 병합
+# 🔗다양한 브랜치 병합
 <pre><code>
 #기준 브랜치에서 hotfix 브랜치 병합
 $ git merge hotfix
